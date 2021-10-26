@@ -5,5 +5,8 @@ This is for github test
 - Machine learning
 - Deep learning
 
-### Conflict with branch_0
-This is written for making trouble
+### Resolved confliction
+1. ML
+2. DL
+3. DF
+
