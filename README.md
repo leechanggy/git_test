@@ -5,5 +5,8 @@ This is for github test
 - Machine learning
 - Deep learning
 
-### conflict with master
-This is written for making big troulbe
+### Resolved confliction
+1. ML
+2. DL
+3. DF
+
