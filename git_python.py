@@ -6,3 +6,11 @@ print(x)
 ########### Edited at github
 y = np.exp(x)
 print(x, y)
+
+########### Edited at local
+
+xx = x**2
+y = np.exp(xx)
+
+########### Second edited at local
+print(y)
